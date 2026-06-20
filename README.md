@@ -249,7 +249,40 @@ cp -r communication-storm-research-skill/* ~/.claude/skills/communication-storm-
 导师会怎样追问我？
 ```
 
----
+## Quick Start（3分钟开始）
+
+### ChatGPT
+
+1. New Project
+2. 上传：
+   - SKILL.md
+   - docs/
+   - templates/
+   - examples/
+   - rubrics/
+3. 将 SKILL.md 核心规则复制到 Project Instructions
+4. 打开联网
+5. 开始研究
+
+### Claude
+
+1. New Project
+2. 上传全部文件
+3. 将 SKILL.md 放入 Project Instructions
+4. 开始使用
+
+推荐研究流程：
+
+Topic
+→ Reverse Engineering
+→ Question Storm
+→ Retrieval
+→ Evidence Cards
+→ Synthesis Grid
+→ Gap Typology
+→ Method Design
+→ Proposal Outline
+→ Defense Review
 
  License
 
